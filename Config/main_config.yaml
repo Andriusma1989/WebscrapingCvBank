@@ -1,0 +1,3 @@
+log_file: 'Logs/scrape.log'
+start_page: "https://en.cvbankas.lt/"
+save_file: "cv_bank.csv"
