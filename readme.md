@@ -10,6 +10,6 @@ scraped and saved to the file.
 ### Launch procedure
 
 - Launch command line 
-- Issue the command: git clone https://github.com/Andriusma1989/Webscraping_CvBank.git
+- Issue the command: git clone https://github.com/Andriusma1989/WebscrapingCvBank.git
 - Open is favorite editor / IDE and configure the environment 
 - Install the necessary libraries: pip install -r requirements.txt
